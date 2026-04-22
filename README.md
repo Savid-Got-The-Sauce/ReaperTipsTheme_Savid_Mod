@@ -1,4 +1,4 @@
-You can download it via the Releases on the right or by going into the Folders Above.
+You can download it by going into the Folders Above.
 
 <img width="1919" height="1079" alt="Animated" src="https://github.com/user-attachments/assets/436c5c0d-28bf-4c3f-9c18-6bf5d82b7262" />
 <img width="1919" height="1079" alt="Waveforms_Dark" src="https://github.com/user-attachments/assets/93e97f84-4c5a-4507-bc85-487d6849f686" />
